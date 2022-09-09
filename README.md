@@ -1,1 +1,0 @@
-# vtex-shopify-integration-admin-app
