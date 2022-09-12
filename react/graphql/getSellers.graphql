@@ -1,0 +1,11 @@
+query getSellers($sellerId:String,$size:Int) {
+  getSellers(sellerId:$sellerId,size:$size){
+    sellerId,
+    sellerName,
+    sellerEmail,
+    sellerAddress,
+    storeName,
+    apiKey,
+    apiPassword
+  }
+}

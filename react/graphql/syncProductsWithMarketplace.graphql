@@ -1,0 +1,5 @@
+mutation syncProductsWithMarketplace($apiKey:String,$apiPassword:String,$shopifyStoreName:String) {
+  syncProductsWithMarketplace(apiKey:$apiKey,apiPassword:$apiPassword,shopifyStoreName:$shopifyStoreName){
+    id
+  }
+}

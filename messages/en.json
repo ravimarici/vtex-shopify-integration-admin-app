@@ -1,0 +1,9 @@
+{
+  "admin-example.navigation.label-group": "Shopify",
+  "admin-example.navigation.label-table": "Connect Shopify",
+  "admin-example.navigation.search.kws": "shopify, integration, seller",
+  "admin-example.navigation.details.search.kws": "details, mock, test, hello",
+  "admin-example.navigation.table.search.kws": "table, mock, test, bye",
+  "admin-example.hello-world": "Shopify Integration",
+  "admin-example.details": "Details page"
+}

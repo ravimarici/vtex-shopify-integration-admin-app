@@ -1,0 +1,5 @@
+mutation createSellerOnMarketPlace($apiKey:String,$apiPassword:String,$shopifyStoreName:String) {
+  createSellerOnMarketplace(apiKey:$apiKey,apiPassword:$apiPassword,shopifyStoreName:$shopifyStoreName){
+    id
+  }
+}
